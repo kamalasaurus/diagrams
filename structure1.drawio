@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" version="24.7.16">
   <diagram name="Page-1" id="Hhz-mPBU3fq4oi2SlDRV">
-    <mxGraphModel>
+    <mxGraphModel dx="871" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-2" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;x&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#333333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-3" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;y&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#333333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-4" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 30px;&quot;&gt;+&lt;/font&gt;" style="shape=or;whiteSpace=wrap;html=1;strokeColor=#6666FF;strokeWidth=3;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.483;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ClbY8FNFIf9lW31lGv9h-2" target="ClbY8FNFIf9lW31lGv9h-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="260" />
+              <mxPoint x="390" y="260" />
+              <mxPoint x="430" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ClbY8FNFIf9lW31lGv9h-3" target="ClbY8FNFIf9lW31lGv9h-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="450" as="sourcePoint" />
+            <mxPoint x="459" y="489" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="450" />
+              <mxPoint x="440" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-9" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;a&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FFFFFF;strokeColor=#0000FF;strokeWidth=3;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ClbY8FNFIf9lW31lGv9h-4" target="ClbY8FNFIf9lW31lGv9h-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-11" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;z&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#333333;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ClbY8FNFIf9lW31lGv9h-13" target="ClbY8FNFIf9lW31lGv9h-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-13" value="&lt;b style=&quot;caret-color: rgb(0, 0, 0); font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 30px;&quot;&gt;&lt;i&gt;z*o&lt;/i&gt;&lt;/b&gt;" style="shape=or;whiteSpace=wrap;html=1;strokeColor=#6666FF;strokeWidth=3;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="420" y="560" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ClbY8FNFIf9lW31lGv9h-11" target="ClbY8FNFIf9lW31lGv9h-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ClbY8FNFIf9lW31lGv9h-16" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;&lt;b&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;b&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#FFFFFF;strokeColor=#0000FF;strokeWidth=3;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
